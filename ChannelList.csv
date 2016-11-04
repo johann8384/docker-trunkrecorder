@@ -1,0 +1,203 @@
+7001,1B59,D,StC EmrgDsp1,St Clair County Emergency Dispatch 1,Emergency Ops,St Clair County  Government  Countywide,3
+7002,1B5A,D,StC EmrgDsp2,St Clair County Emergency Dispatch 2,Emergency Ops,St Clair County  Government  Countywide,3
+7004,1B5C,D,StC Ops 7004,St Clair County Operations,Interop,St Clair County  Government  Countywide,3
+7005,1B5D,D,StC UnfdCmnd,St Clair County Unified Command,Interop,St Clair County  Government  Countywide,3
+7006,1B5E,D,StC CoCall 1,St Clair County CountyCalling CENCOM to 911 PSAPs,Interop,St Clair County  Government  Countywide,3
+7007,1B5F,D,StC LawCmn 1,St Clair County Law Common 1 ,Law Tac,St Clair County  Government  Countywide,3
+7008,1B60,D,StC SpecDisp,St Clair County Special Dispatch,Law Tac,St Clair County  Government  Countywide,3
+7009,1B61,D,StC Law c2c,St Clair County Law CartoCar,Law Tac,St Clair County  Government  Countywide,3
+7010,1B62,D,StC Common 1,St Clair County County Common 1,Interop,St Clair County  Government  Countywide,3
+7011,1B63,D,StC MERCI 3,St Clair County MERCI3 Simulcast County Common 2,Hospital,St Clair County  Government  Countywide,3
+7012,1B64,D,StC Common 3,St Clair County County Common 3 ,Interop,St Clair County  Government  Countywide,3
+7014,1B66,D,StC FireCmn1,St Clair County County Fire Common 1,Fire-Tac,St Clair County  Government  Countywide,3
+7015,1B67,D,StC FireCmn2,St Clair County County Fire Common 2  EMS Common 1,Fire-Tac,St Clair County  Government  Countywide,3
+7016,1B68,D,StC DispCmmn,St Clair County County Common Dispatch,Interop,St Clair County  Government  Countywide,3
+7017,1B69,D,SCC Sheriff ,St Clair County Sheriff Dispatch 1  Main,Law Dispatch,St Clair County  Law Enforcement,3
+7018,1B6A,D,SCCRuralLaw4,St Clair County Law Dispatch 4 Rural Municipalities ,Law Dispatch,St Clair County  Law Enforcement,3
+7019,1B6B,D,StClair Fire,St Clair County Fire Dispatch 1  Countywide Patched w 15419 1862,Fire Dispatch,St Clair County  FireEMS,3
+7020,1B6C,D,StClair EMS,St Clair County EMS Dispatch Patched w 15516 15528 CSQ,EMS Dispatch,St Clair County  FireEMS,3
+7021,1B6D,D,SCCRuralLaw3,St Clair County Law Dispatch 3 Rural Municipalities 15576 Patch,Law Dispatch,St Clair County  Law Enforcement,3
+7022,1B6E,D,Centrevil PD,Centreville Police ,Law Dispatch,St Clair County  Law Enforcement,3
+7023,1B6F,D,Cahokia Fire,St Clair County Fire Dispatch 2  Cahokia Fire Dupo FireEMS Sauget Fire Simulcast 15434 1862,Fire Dispatch,St Clair County  FireEMS,3
+7024,1B70,D,WashPark PD,Washington Park Police,Law Dispatch,St Clair County  Law Enforcement,3
+7025,1B71,D,SCC Hospital,St Clair County Hospital Net ,Hospital,St Clair County  FireEMS,3
+7026,1B72,D,SCC EMS 7026,St Clair County EMS Operations unid,EMS-Tac,St Clair County  FireEMS,3
+7027,1B73,D,SCC LawDisp4,St Clair County Law Dispatch 4,Law Dispatch,St Clair County  Law Enforcement,3
+7028,1B74,D,Casyvle Fire,Caseyville Fire Protection District Patch  15419 1738 PL,Fire Dispatch,St Clair County  FireEMS,3
+7031,1B77,D,StC PC Spprt,St Clair County Computer Support ,Public Works,St Clair County  Government  Countywide,3
+7032,1B78,D,SCC ShrfJail,St Clair County Sheriff Jail  Operations ,Corrections,St Clair County  Law Enforcement,3
+7035,1B7B,D,StC Zone7035,St Clair County HighwayZoning Ops 26050,Public Works,St Clair County  Government  Countywide,3
+7036,1B7C,D,StC Zoning,St Clair County ZoningHousing Inspectors ,Public Works,St Clair County  Government  Countywide,3
+7038,1B7E,D,StC HsAuth,St Clair County Housing Authority Security ,Public Works,St Clair County  Government  Countywide,3
+7039,1B7F,D,StC PubBldg ,St Clair County Public Building Commission PBC,Public Works,St Clair County  Government  Countywide,3
+7040,1B80,D,StC 7040,St Clair County Ops  simulcast of analog ,Public Works,St Clair County  Government  Countywide,3
+7041,1B81,D,StC Highway2,St Clair County Highway Department  Construction Traffic Control,Public Works,St Clair County  Government  Countywide,3
+7042,1B82,D,StC Hwy 7042,St Clair County Highway Department  mobilest  ,Public Works,St Clair County  Government  Countywide,3
+7046,1B86,D,StC Highway4,St Clair County Highway Department  Channel 4 ,Public Works,St Clair County  Government  Countywide,3
+7047,1B87,D,StC Highway,St Clair County Highway Department  Dispatch,Public Works,St Clair County  Government  Countywide,3
+7048,1B88,D,StC Highway1,St Clair County Highway Department  Construction Traffic Control ,Public Works,St Clair County  Government  Countywide,3
+7049,1B89,D,StC Highway3,St Clair County Highway Department  Channel 3,Public Works,St Clair County  Government  Countywide,3
+7050,1B8A,D,StC Hwy 7050,St Clair County Highway Department  Operations,Public Works,St Clair County  Government  Countywide,3
+7051,1B8B,D,StC Hwy 7055,St Clair County Highway Department  Operations,Public Works,St Clair County  Government  Countywide,3
+7054,1B8E,D,SCC Law 7054,St Clair County Law Ops,Law Tac,St Clair County  Law Enforcement,3
+7056,1B90,D,SCC ShrfInfo,St Clair County Sheriff Info  Records Checks,Law Dispatch,St Clair County  Law Enforcement,3
+7057,1B91,D,SCC IREACH ,St Clair County IREACH Patch 155055 CSQ ,Interop,St Clair County  Government  Countywide,3
+7058,1B92,D,SCC ISPERN,St Clair County ISPERN Patch 155475 CSQ,Law Talk,St Clair County  Government  Countywide,3
+7059,1B93,D,StC IFERN ,St Clair County IFERN Patch 154265 2107 PL ,Fire-Talk,St Clair County  Government  Countywide,3
+7060,1B94,D,SCC Law 7060,St Clair County SheriffLaw Ops,Law Tac,St Clair County  Law Enforcement,3
+7061,1B95,D,SCC CourtOps,St Clair County Sheriff Court Operations,Corrections,St Clair County  Law Enforcement,3
+7062,1B96,D,SCC Shrf c2c,St Clair County Sheriff CartoCar,Law Tac,St Clair County  Law Enforcement,3
+7063,1B97,E,SCC SD Inv 1,St Clair County Sheriff Investigations Encrypted,Law Tac,St Clair County  Law Enforcement,3
+7064,1B98,E,SCC SD Inv 2,St Clair County Sheriff Investigations Encrypted,Law Tac,St Clair County  Law Enforcement,3
+7065,1B99,D,SCC MetroLnk,St Clair County Sheriff MetroLink Units METRO,Law Tac,St Clair County  Law Enforcement,3
+7066,1B9A,D,MAA Security,St Clair County Sheriff MidAmerica Airport  Security ,Security,St Clair County  Law Enforcement,3
+7067,1B9B,D,SCC SpecDet1,St Clair County Sheriff Special Detail 1 ,Law Tac,St Clair County  Law Enforcement,3
+7068,1B9C,D,SCC SpecDet2,St Clair County Sheriff Special Detail 2,Law Tac,St Clair County  Law Enforcement,3
+7069,1B9D,D,SCC SpecDet3,St Clair County Sheriff Special Detail 3  Jail Operations,Corrections,St Clair County  Law Enforcement,3
+7070,1B9E,D,SCC Shrf Spv,St Clair County Sheriff Supervisor,Law Tac,St Clair County  Law Enforcement,3
+7071,1B9F,D,SCC Shrf Adm,St Clair County Sheriff Administration,Law Tac,St Clair County  Law Enforcement,3
+7076,1BA4,D,StC AnmCntrl,St Clair County Animal Control,Law Tac,St Clair County  Government  Countywide,3
+7077,1BA5,D,StC Coroner,St Clair County Coroner,Public Works,St Clair County  Government  Countywide,3
+7078,1BA6,D,Millstadt PD,Millstadt Police CartoCar,Law Tac,St Clair County  Law Enforcement,3
+7079,1BA7,D,Mlsdt FDEMS,Millstadt FireEMS Dispatch ,Fire Dispatch,St Clair County  FireEMS,3
+7080,1BA8,E,StC CW Evt3,St Clair County Countywide Events 3,Interop,St Clair County  Government  Countywide,3
+7081,1BA9,D,StC CW Evt2,St Clair County Countywide Events 2,Interop,St Clair County  Government  Countywide,3
+7082,1BAA,D,StC CW Evt1,St Clair County Countywide Events 1,Interop,St Clair County  Government  Countywide,3
+7083,1BAB,D,SCC Law 7083,St Clair County Law Operations ,Law Tac,St Clair County  Law Enforcement,3
+7084,1BAC,D,SCC ShrfProb,St Clair County Sheriff Probation,Law Tac,St Clair County  Law Enforcement,3
+7086,1BAE,D,StC CENCOM,St Clair County CENCOM Staff,Emergency Ops,St Clair County  Government  Countywide,3
+7087,1BAF,D,StC SCSES,St Clair County Special Emergency Services,Emergency Ops,St Clair County  Government  Countywide,2
+7089,1BB1,D,Milstdt Fire,Millstadt Fire Operations,Fire-Tac,St Clair County  FireEMS,3
+7091,1BB3,D,SAFB FuelATS,Fueling Operations ATS,Military,Scott Air Force Base Mascoutah,3
+7092,1BB4,D,SAFB Ops7092,Base Operations,Military,Scott Air Force Base Mascoutah,3
+7093,1BB5,D,SAFB Ops7093,Base Operations ,Military,Scott Air Force Base Mascoutah,3
+7094,1BB6,D,SAFB RampOps,Ramp Operations,Military,Scott Air Force Base Mascoutah,3
+7095,1BB7,D,SAFB Weather,Weather Alerts  Wind Advisories,Emergency Ops,Scott Air Force Base Mascoutah,3
+7096,1BB8,D,SAFB RampNet,Ramp Net Traffic Simulcast of VHF TRS TG560 ,Military,Scott Air Force Base Mascoutah,3
+7097,1BB9,D,SAFB FDCrsh,Fire  Crash Simulcast of VHF TRS TG864 ,Fire Dispatch,Scott Air Force Base Mascoutah,3
+7098,1BBA,D,SAFB Events1,Special Events 1  Security  Operations,Multi-Tac,Scott Air Force Base Mascoutah,3
+7099,1BBB,D,SAFB AOCEvt,AOC Special Events 2  Security  Operations ,Multi-Tac,Scott Air Force Base Mascoutah,3
+7100,1BBC,D,SAFB Maintnc,Maintenance,Military,Scott Air Force Base Mascoutah,3
+7101,1BBD,D,Dupo PD c2c,Dupo Police CartoCar formerly Mascoutah PD,Law Tac,St Clair County  Law Enforcement,3
+7103,1BBF,D,StookyTSRoad,Stookey Township Road Maintenance,Public Works,St Clair County  Rural MunicipalitiesTownships,3
+7104,1BC0,D,Mascoutah PW,Mascoutah Public Works ,Public Works,St Clair County  Rural MunicipalitiesTownships,3
+7105,1BC1,D,Lebanon City,Lebanon City Channel,Law Tac,St Clair County  Law Enforcement,3
+7106,1BC2,D,StC AgPatch,St Clair County Radio Agile Patch any frequency ,Interop,St Clair County  Government  Countywide,3
+7107,1BC3,D,FrmntCty CW,Fairmont City Citywide  Fireground Public WorksPoliceFire,Multi-Tac,St Clair County  Rural MunicipalitiesTownships,3
+7108,1BC4,D,CsvTwpFC PW,Caseyville Township  Fairmont City Public Works ,Public Works,St Clair County  Rural MunicipalitiesTownships,3
+7110,1BC6,D,Brkln PD c2c,Brooklyn Police CartoCar was Caseyville PoliceFire,Law Tac,St Clair County  Law Enforcement,3
+7112,1BC8,D,StC ETSB 1,St Clair County ETSB Channel 1 ,Emergency Ops,St Clair County  Government  Countywide,3
+7113,1BC9,E,StC ETSB 2,St Clair County ETSB Channel 2 ,Emergency Ops,St Clair County  Government  Countywide,3
+7114,1BCA,D,StC ETSB 3,St Clair County ETSB Channel 3,Emergency Ops,St Clair County  Government  Countywide,3
+7115,1BCB,D,Centerville,Centerville  Local ,Multi-Tac,St Clair County  Rural MunicipalitiesTownships,3
+7116,1BCC,D,Dupo Citywd2,Dupo  Citywide 2  Fireground,Multi-Tac,St Clair County  Rural MunicipalitiesTownships,3
+7117,1BCD,D,Lenzburg PD,Lenzburg Police LocalCartocar,Law Tac,St Clair County  Law Enforcement,3
+7118,1BCE,D,SCC Law 7118,St Clair County Law Ops  Sheriff Tac,Law Tac,St Clair County  Law Enforcement,3
+7119,1BCF,D,SCC Law 7119,St Clair County Law Ops,Law Tac,St Clair County  Law Enforcement,3
+7121,1BD1,D,SCC ESDA7121,St Clair County unid ESDA Ops,Public Works,St Clair County  Rural MunicipalitiesTownships,3
+7135,1BDF,D,Smithton PD,Smithton Police CartoCar 2600 units,Law Tac,St Clair County  Law Enforcement,3
+7136,1BE0,D,SCC Law 7136,St Clair County Law Ops  CartoCar Smithton heard,Law Tac,St Clair County  Law Enforcement,3
+7137,1BE1,D,MascPDmobile,Mascoutah Police CartoCar Ch 2,Law Tac,St Clair County  Law Enforcement,3
+7139,1BE3,D,MascCitywide,Mascoutah Citywide  Fireground ,Multi-Tac,St Clair County  Rural MunicipalitiesTownships,3
+7141,1BE5,D,Masc FireEMS,Mascoutah FireEMS,Fire-Tac,St Clair County  FireEMS,3
+7142,1BE6,E,ISP AV TaskF,ISP Auto Theft Task Force  Adam Victor,Law Tac,St Clair County  Law Enforcement,3
+7144,1BE8,D,ShilohPD Old,Shiloh Police Dispatch old Local,Law Tac,St Clair County  Law Enforcement,3
+7145,1BE9,D,SCC Ops 7145,St Clair County Operations  Explorers,Public Works,St Clair County  Rural MunicipalitiesTownships,3
+7147,1BEB,D,NAthn Police,New Athens Police  CartoCar B,Law Tac,St Clair County  Law Enforcement,3
+7148,1BEC,D,Shiloh EMS,Shiloh EMS Ops,EMS-Tac,St Clair County  FireEMS,3
+7149,1BED,D,SCC Fire7149,St Clair County unid Fire 27790,Fire-Tac,St Clair County  FireEMS,3
+7156,1BF4,D,SmthnFire ,Smithton Fire  Fire units 27764,Fire-Tac,St Clair County  Rural MunicipalitiesTownships,3
+7157,1BF5,D,NewAthensTwp,New Athens Township Public Works  Snow Plows,Public Works,St Clair County  Rural MunicipalitiesTownships,3
+7158,1BF6,D,Smithton CW,Smithton Citywide WaterVillage Hall,Multi-Tac,St Clair County  Rural MunicipalitiesTownships,3
+7159,1BF7,D,Smithton CW,Smithton Citywide,Multi-Tac,St Clair County  FireEMS,3
+7160,1BF8,D,AS Railrd PD,Alton and Southern Railroad Police  ANS 1 ,Law Tac,St Clair County  Law Enforcement,3
+7161,1BF9,D,MAA Police,Mid America Airport Law Ops ,Law Tac,St Clair County  Government  Countywide,3
+7162,1BFA,D,Nrthwest FPD,Northwest Fire Protection District Belleville,Fire-Tac,St Clair County  FireEMS,3
+7163,1BFB,D,MAA ArprtOps,Mid America Airport  Operations AIRPORT OPS,Public Works,St Clair County  Government  Countywide,3
+7166,1BFE,D,SCC LawRoam2,St Clair County Law Roam 2,Law Tac,St Clair County  Law Enforcement,3
+7168,1C00,D,SCC Ops 7168,St Clair County Operations,Public Works,St Clair County  Rural MunicipalitiesTownships,3
+7171,1C03,D,StC Roam 5,St Clair County Roam 5 SC21 system roaming channel,Interop,St Clair County  Government  Countywide,3
+7175,1C07,D,Cahok PD EBT,Cahokia Police Emergency Button Trigger,Law Tac,St Clair County  Law Enforcement,3
+7176,1C08,D,SCC Law 7176,St Clair County Law Operations ,Law Tac,St Clair County  Law Enforcement,3
+7178,1C0A,D,Cahok PD c2c,Cahokia Police CartoCar,Law Tac,St Clair County  Law Enforcement,3
+7179,1C0B,D,Cahok FD c2c,Cahokia Fire CartoCar,Fire-Tac,St Clair County  FireEMS,3
+7180,1C0C,D,SCC Law 7180,St Clair County Law Op Cahokia units,Law Tac,St Clair County  Law Enforcement,3
+7181,1C0D,D,SCC Law 7181,St Clair County Law Tactical Operations Cahokia surrounding,Law Tac,St Clair County  Law Enforcement,3
+7182,1C0E,D,SCC Law 7182,St Clair County Law Ops Cahokia units,Law Tac,St Clair County  Law Enforcement,3
+7183,1C0F,D,CahokPD 7183,Cahokia Police CartoCar,Law Tac,St Clair County  Law Enforcement,3
+7187,1C13,D,EStL PD Emer,East St Louis Police Emergency Button Trigger,Law Dispatch,St Clair County  Law Enforcement,3
+7188,1C14,D,EStL Police1,East St Louis Police Dispatch 1,Law Dispatch,St Clair County  Law Enforcement,3
+7189,1C15,D,EStLouisFire,East St Louis Fire Dispatch,Fire Dispatch,St Clair County  FireEMS,3
+7190,1C16,D,EStL Police3,East St Louis Police CartoCarDispatch 3,Law Dispatch,St Clair County  Law Enforcement,3
+7191,1C17,D,EStL Police4,East St Louis Police Operations,Law Tac,St Clair County  Law Enforcement,3
+7192,1C18,D,EStL Det c2c,East St Louis Police Detectives  CartoCar,Law Tac,St Clair County  Law Enforcement,3
+7195,1C1B,D,EStL Police4,East St Louis Police CartoCar,Law Tac,St Clair County  Law Enforcement,3
+7199,1C1F,D,OFlln PD EBT,O Fallon Police Emergency Button Trigger ,Law Dispatch,St Clair County  Fairview Heights  O Fallon,1
+7200,1C20,D,OFlln Police,O Fallon Police Dispatch Patch w 4605R,Law Dispatch,St Clair County  Fairview Heights  O Fallon,2
+7201,1C21,D,OFallon Fire,O Fallon Fire Dispatch Ch 4 Patch w 154235R,Fire Dispatch,St Clair County  Fairview Heights  O Fallon,1
+7202,1C22,D,OFallon EMS,O Fallon EMS Dispatch Patch w 15522,EMS Dispatch,St Clair County  Fairview Heights  O Fallon,2
+7203,1C23,D,OF EMS c2c,O Fallon EMS CartoCar ,EMS-Tac,St Clair County  Fairview Heights  O Fallon,2
+7205,1C25,D,OF PoliceOps,O Fallon Police Operations,Fire-Tac,St Clair County  Fairview Heights  O Fallon,2
+7206,1C26,D,OF PoliceInv,O Fallon Police Investigations,Law Tac,St Clair County  Fairview Heights  O Fallon,2
+7207,1C27,D,OF Fire SOA,O Fallon Fire Scene of Action Fireground  CartoCar,Fire-Tac,St Clair County  Fairview Heights  O Fallon,1
+7208,1C28,D,OF Fire 7208,O Fallon Fire,Fire-Tac,St Clair County  Fairview Heights  O Fallon,1
+7209,1C29,D,OF CW 7209,O Fallon Citywide  OpsPoliceFire,Fire-Tac,St Clair County  Fairview Heights  O Fallon,2
+7210,1C2A,D,OF Fire Cmnd,O Fallon Fire Ops  Command  Admin,Fire-Tac,St Clair County  Fairview Heights  O Fallon,1
+7211,1C2B,D,ShilohPolice,Shiloh Police Dispatch DB Ofallon,Law Dispatch,St Clair County  Fairview Heights  O Fallon,2
+7212,1C2C,D,OF Fire Sprv,O Fallon Fire Supervisor,Fire-Tac,St Clair County  Fairview Heights  O Fallon,1
+7214,1C2E,D,OF PublicWrk,O Fallon Public Works  Snow Plows,Fire-Tac,St Clair County  Fairview Heights  O Fallon,3
+7219,1C33,D,FH Emergncy,Fairview Heights Emergency Button Trigger to FH PSAP,Emergency Ops,St Clair County  Fairview Heights  O Fallon,3
+7220,1C34,D,FHts Police,Fairview Heights Police Dispatch UHF Patch,Law Dispatch,St Clair County  Fairview Heights  O Fallon,3
+7221,1C35,D,FrvwHts Fire,Fairview Heights Fire Dispatch w French Village Patch w 154415 Ch 4,Fire Dispatch,St Clair County  Fairview Heights  O Fallon,3
+7222,1C36,D,FH Police c2,Fairview Heights Police CartoCar  Secondary Dispatch,Law Tac,St Clair County  Fairview Heights  O Fallon,3
+7223,1C37,D,FH Fire c2c,Fairview Heights Fire CartoCar ,Fire-Tac,St Clair County  Fairview Heights  O Fallon,3
+7224,1C38,D,FH Supervisr,Fairview Heights Public Safety Command Staff  Supervisor ,Interop,St Clair County  Fairview Heights  O Fallon,3
+7225,1C39,D,FH PD Sprvsr,Fairview Heights Police Supervisor,Law Tac,St Clair County  Fairview Heights  O Fallon,3
+7226,1C3A,D,FH Fire Sprv,Fairview Heights Fire Supervisor Ch 3 Inspectors,Fire-Tac,St Clair County  Fairview Heights  O Fallon,3
+7227,1C3B,D,FH PD Invstg,Fairview Heights Police Investigations,Law Tac,St Clair County  Fairview Heights  O Fallon,3
+7228,1C3C,D,FH PD SpDet1,Fairview Heights Police Special Detail 1 w Dispatcher ,Law Tac,St Clair County  Fairview Heights  O Fallon,3
+7229,1C3D,D,FH Citywide,Fairview Heights Citywide in every FH Radio Parks,Multi-Tac,St Clair County  Fairview Heights  O Fallon,3
+7230,1C3E,D,FH GovParks,Fairview Heights Parks others,Public Works,St Clair County  Fairview Heights  O Fallon,3
+7231,1C3F,D,FH PublicWrk,Fairview Heights Public Works ,Public Works,St Clair County  Fairview Heights  O Fallon,3
+7234,1C42,D,Bv PD 7234,Belleville Police Operations,Law Tac,St Clair County  BellevilleSwansea,3
+7235,1C43,D,Bv PD 7235,Belleville Police Operations Dispatcher some encryption,Law Tac,St Clair County  BellevilleSwansea,3
+7236,1C44,D,Bellv Police,Belleville Police Dispatch Patch Ch 1,Law Dispatch,St Clair County  BellevilleSwansea,3
+7237,1C45,D,BellvileFire,Belleville Fire ToneOutsDispatch Patch Ch 2,Law Dispatch,St Clair County  BellevilleSwansea,3
+7238,1C46,D,Bv PD c2c F3,Belleville Police CartoCar Ch 3,Law Tac,St Clair County  BellevilleSwansea,3
+7239,1C47,D,Bv Fire c2c4,Belleville Fire CartoCar Ch 4,Fire-Tac,St Clair County  BellevilleSwansea,3
+7240,1C48,E,Bv PD DetE,Belleville Police Encrypted Supervisor,Law Tac,St Clair County  BellevilleSwansea,3
+7241,1C49,D,Bv PD 7241,Belleville Police Operations,Law Tac,St Clair County  BellevilleSwansea,3
+7243,1C4B,D,Swansea Fire,Swansea Fire ,Fire-Tac,St Clair County  BellevilleSwansea,3
+7244,1C4C,D,Bv Fire Sup5,Belleville Fire Supervisor Ch 5,Fire-Tac,St Clair County  BellevilleSwansea,3
+7245,1C4D,D,SwnseaPolice,Swansea Police Dispatch Patch,Law Dispatch,St Clair County  BellevilleSwansea,3
+7246,1C4E,D,SCC Law 7246,Belleville Law Operations possible Swansea,Law Tac,St Clair County  BellevilleSwansea,3
+7248,1C50,D,SCC Law 7248,Belleville Law Operations,Law Tac,St Clair County  BellevilleSwansea,3
+7249,1C51,D,Sauget PDc2c,Sauget Police CartoCar was listed as Swansea,Law Tac,St Clair County  BellevilleSwansea,3
+7250,1C52,D,SaugetPolice,Sauget Police ,Law Dispatch,St Clair County  Law Enforcement,3
+7251,1C53,D,StLiboryFire,St Libory Fire  Local,Fire-Tac,St Clair County  FireEMS,3
+7252,1C54,D,Medstar 7252,Medstar EMS E BellevilleSAFB,EMS Dispatch,St Clair County  BellevilleSwansea,3
+7253,1C55,D,UP Police,Union Pacific Police Cahokia area,Law Tac,St Clair County  Law Enforcement,3
+7254,1C56,D,Swans Police,Swansea Police,Law Tac,St Clair County  BellevilleSwansea,3
+7255,1C57,D,ColumbiaFire,Columbia Fire Patched to 15419 CSQ,Fire Dispatch,Monroe County,3
+7256,1C58,D,SWIC Police,SouthWestern Illinois College Police Dispatch Belleville,Law Tac,St Clair County  BellevilleSwansea,3
+7258,1C5A,D,FrmtCityFire,Fairmont City Fire,Fire-Tac,St Clair County  FireEMS,3
+7259,1C5B,D,BvFireComn2,Belleville Area Fire Departments Northwest FPD,Fire-Tac,St Clair County  BellevilleSwansea,3
+7260,1C5C,D,BvFireComn3,Belleville Area Fire Departments Signal Hill FPD,Fire-Tac,St Clair County  BellevilleSwansea,3
+7261,1C5D,D,BvFireComn4,Belleville Area Fire Departments Villa Hills FPD,Fire-Tac,St Clair County  BellevilleSwansea,3
+7262,1C5E,D,Bv FireComn5,Belleville Area Fire Common 5 East Side FPD ,Fire-Tac,St Clair County  BellevilleSwansea,3
+7264,1C60,D,CaseyvilleCW,Caseyville Citywide,Multi-Tac,St Clair County  Rural MunicipalitiesTownships,3
+7265,1C61,D,SCC 7265 5,St Clair County Operations Ch 5,Multi-Tac,St Clair County  Rural MunicipalitiesTownships,3
+7269,1C65,D,CahokiaSch69,Cahokia CUSD187 Security  Transportation,Schools,St Clair County  Government  Countywide,3
+7270,1C66,D,CahokiaSch70,Cahokia CUSD187 Ops,Schools,St Clair County  Government  Countywide,3
+7271,1C67,D,WashParkFire,Washington Park Fire,Fire Dispatch,St Clair County  FireEMS,3
+7272,1C68,D,Smthn PubWrk,Smithton Public Works ,Public Works,St Clair County  Rural MunicipalitiesTownships,3
+7273,1C69,D,SCC Fire7273,St Clair County Fire  Emergency Management  ITECS units,Emergency Ops,St Clair County  FireEMS,3
+7274,1C6A,D,CntrvlFDICOM,Centreville Area Fire Departments  TrucktoTruck ICOM,Fire-Tac,St Clair County  FireEMS,3
+7275,1C6B,D,MemHosp Sec,Memorial Hospital Security Belleville,Security,St Clair County  Government  Countywide,3
+7277,1C6D,D,CmpJksnFire7,Camp Jackson Fire En Route  Fireground,Fire-Tac,St Clair County  FireEMS,3
+7278,1C6E,D,FCity Police,Fairmont City Police,Law Tac,St Clair County  Law Enforcement,3
+7279,1C6F,D,FC PD 7279,Fairmont City Police RIDs T301,Law Tac,St Clair County  Law Enforcement,3
+7281,1C71,D,Csyvl PD c2c,Caseyville Police CartoCar  Citywide,Multi-Tac,St Clair County  FireEMS,3
+7282,1C72,D,FedPris 7282,Law  Federal Prisoner Transfers,Corrections,St Clair County  Law Enforcement,3
+7283,1C73,D,SCC Fire7383,St Clair County unid Fire RID 21390 27384 27390,Fire-Tac,St Clair County  FireEMS,3
+7286,1C76,D,SCC 7286 Law,St Clair County unid Law,Law Tac,St Clair County  FireEMS,3

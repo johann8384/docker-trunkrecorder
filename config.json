@@ -1,0 +1,22 @@
+{
+    "sources": [{
+        "center": 854406250.0,
+        "rate": 10000000.0,
+        "squelch": -60,
+        "error": -215,
+        "ppm": 0,
+        "gain": 30,
+        "antenna": "TX/RX",
+        "digitalRecorders": 8,
+        "analogRecorders": 1,
+        "driver": "osmosdr",
+        "device": "airspy"
+    }],
+    "system": {
+        "control_channels": [851225000],
+        "type": "p25",
+        "modulation": "QPSK"
+    },
+    "talkgroupsFile": "ChannelList.csv",
+    "captureDir": "/tmp/capture"
+}
