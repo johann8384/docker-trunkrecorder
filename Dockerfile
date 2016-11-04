@@ -1,4 +1,4 @@
-FROM johann8384/gnuradio
+FROM johann8384/trunkbase
 
 VOLUME /src/trunk-recorder/2016
 WORKDIR /src/trunk-recorder
